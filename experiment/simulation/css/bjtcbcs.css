@@ -11,6 +11,7 @@ and open the template in the editor.
 input{
     width:250px;
     height:40px;
+    background:#4E9CAF; 
     text-align: center;
     padding:15px ;
     padding-top:3px;
