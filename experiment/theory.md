@@ -131,7 +131,7 @@ J<sub>S</sub> is the transport saturation current density
 ### Input Characteristics
 
 The most important characteristic of the BJT is the plot of the emitter current, I<sub>E</sub>, versus the base-emitter voltage,V<sub>BE</sub>, for various values of the collector-base voltage,V<sub>CB</sub>
-$$I_B=ϕ(V_{BE},V_{CE})$$ for constant V<sub>CB</sub>$$
+$$I_B=ϕ(V_{BE},V_{CE})$$ for constant V<sub>CB</sub>
 
 
 <div align="center">
@@ -143,7 +143,7 @@ $$I_B=ϕ(V_{BE},V_{CE})$$ for constant V<sub>CB</sub>$$
 
 The most important characteristic of the BJT is the plot of the collector current, I<sub>C</sub>, versus the collector-base voltage, V<sub>CB</sub>, for various values of the emitter current, I<sub>E</sub> as shown on the circuit on the right.
 
-$$I_C=ϕ(V_{CE},I_E)$$  for constant I<sub>E</sub>$$
+$$I_C=ϕ(V_{CE},I_E)$$  for constant I<sub>E</sub>
 
 <div align="center">
 <img src="images/bjtcbth5.png" width="50%">
