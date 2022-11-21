@@ -87,7 +87,7 @@ where,
 I<sub>ES</sub> is base-emitter saturation currents,
 I<sub>CS</sub> is base-collector saturation currents
 
-$$V_T=\frac{kT}{q}
+$$V_T=\frac{kT}{q}$$
 
 where,
 k is the Boltzmann’s constant ( k = 1.381 e-23 V.C/ K ),
