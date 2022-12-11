@@ -1,0 +1,63 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is &#946;<sub>dc</sub> equal to",
+      "answers": {
+        "a": "I<sub>B</sub> / I<sub>E</sub>",
+        "b": "I<sub>C</sub> / I<sub>E</sub>",
+        "c": "I<sub>C</sub> / I<sub>B</sub>",
+        "d": "None of the above"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For a properly biased pnp transistor, letI<sub>C</sub> = 10 mA and I<sub>E</sub> = 10.2 mA. What is the level of I<sub>B</sub>?",
+      "answers": {
+        "a": " 0.2 A",
+        "b": "200 mA",
+        "c": "200 &#956;A",
+        "d": "20.2 mA"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Determine the value of &#945;  when &#946; = 100.",
+      "answers": {
+        "a": " 1.01 A",
+        "b": "0.99",
+        "c": "101",
+        "d": "Cannot be solved with the information provided"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+   
+    
+    
+    
+  ]
+}
