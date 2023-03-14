@@ -1,0 +1,63 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "What is the typical value of the current gain of a common-base configuration?",
+        "answers": {
+          "a": "Undefined",
+          "b": "Less than 1",
+          "c": "Between 1 and 50",
+          "d": "Between 100 and 200"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d":"You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the h-parameters corresponds to re in a common-base configuration?",
+        "answers": {
+          "a": "h<sub>ib</sub>",
+          "b": "h<sub>fb </sub>",
+          "c": "h<sub>rb</sub>",
+          "d": "h<sub>ob</sub>"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is correct  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d":"You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+
+      {
+        "question": "What is the range of the input impedance of a common-base configuration?",
+        "answers": {
+          "a": "1 k&#937; to 5 k&#937",
+          "b": "100 k&#937;to 500 k&#937",
+          "c": "1 M&#937; to 2 M&#937",
+          "d": "A few ohms to a maximum of 50&#937"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d":"You have choosen option (d). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+
+    ]
+  }
+  
+  
