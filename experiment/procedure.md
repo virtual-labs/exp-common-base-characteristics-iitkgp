@@ -11,7 +11,7 @@
                                     
 
 <div align="center">
-<img src="images/bjtcb_pr.png" width="50%">
+<img src="images/bjtcb_pr.png" style="max-width:100%; height:auto;">
 <p>Figure:1</p>
 </div>
 
@@ -25,7 +25,7 @@
 7. Now set the Emitter Current(I<sub>E</sub>) to 2 mA
 
 <div align="center">
-<img src="images/bjtcb_pr.png" width="50%">
+<img src="images/bjtcb_pr.png" style="max-width:100%; height:auto;">
 <p>Figure: 2</p>
 </div>
 

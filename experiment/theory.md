@@ -8,7 +8,7 @@
 A bipolar junction transistor, BJT, is a single piece of silicon with two back-to-back P-N junctions.BJTs can be made either as PNP or as NPN.
 
 <div align="center">
-<img src="images/bjtcbth1.png" width="50%">
+<img src="images/bjtcbth1.png" style="max-width:100%; height:auto;">
 <p>Figure 1: Structures, layers and circuit symbol of NPN transistor  </p>
 </div>
 
@@ -18,7 +18,7 @@ The direction of the arrow indicates the direction of the current in the emitter
 normally. An easy way to remember this is  NPN stands for "Not Pointing iN".
 
 <div align="center">
-<img src="images/bjtcbth2.png" width="50%">
+<img src="images/bjtcbth2.png" style="max-width:100%; height:auto;">
 <p>Figure 2: Structures, layers and circuit symbol of PNP transistor  </p>
 </div>
 
@@ -33,7 +33,7 @@ Most bipolar switching circuits use NPN transistors.
 
 ### Operation of Bipolar Junction Transistor
 <div align="center">
-<img src="images/bjtcbth3.png" width="50%">
+<img src="images/bjtcbth3.png" style="max-width:100%; height:auto;">
 <p>Figure 3: Four Operating Conditions  </p>
 </div>
 
