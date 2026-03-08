@@ -135,7 +135,7 @@ $$I_B=ϕ(V_{BE},V_{CE})$$ for constant V<sub>CB</sub>
 
 
 <div align="center">
-<img src="images/bjtcbth4.png" width="50%">
+<img src="images/bjtcbth4.png" style="max-width:100%; height:auto;">
 <p>Figure 4: Input Characteristics Circuit  </p>
 </div>
 
@@ -146,7 +146,7 @@ The most important characteristic of the BJT is the plot of the collector curren
 $$I_C=ϕ(V_{CE},I_E)$$  for constant I<sub>E</sub>
 
 <div align="center">
-<img src="images/bjtcbth5.png" width="50%">
+<img src="images/bjtcbth5.png" style="max-width:100%; height:auto;">
 <p>Figure 5: Output Characteristics Circuit  </p>
 </div>
 
